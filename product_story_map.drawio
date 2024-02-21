@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-02-21T14:21:24.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="JgTP-OPU2QdoxAwMz5D4" version="23.1.5" type="device">
+  <diagram name="Page-1" id="rfjvWMqyRgM7L9SijGSh">
+    <mxGraphModel dx="1026" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="810" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-1" value="NSM: No of record in the system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-2" value="For Tracker to manage record&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-3" value="Create record&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-4" value="Delete record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-5" value="Edit record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-6" value="View record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-7" value="Manage record" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-8" value="Track progress improvement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-9" value="Healing progress tracking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-10" value="Calculate progress improvement (2 weeks, 4 weeks, 6 weeks, since the start)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="680" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq39JP6Z8viFGww4JwIC-12" value="Knee operation recovery tracking &amp;nbsp;system" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
